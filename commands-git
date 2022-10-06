@@ -1,0 +1,7 @@
+git clone [URL/HTTPS;SSH]
+# Se rendre sur le fichier désiré
+git add .
+git commit -m "commit message"
+git push -u origin Main/Secondary 
+
+
